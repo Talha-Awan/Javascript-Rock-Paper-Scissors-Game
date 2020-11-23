@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap");
+
+body {
+	background-color: #323232 !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+span,
+div {
+	font-family: Kaushan Script;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+	color: #fafafa;
+}
+
+input[type="image"] {
+	outline: none;
+	border-radius: 35%;
+}
+
+input[type="image"]:active {
+	outline: none;
+	transform: translateY(4px);
+}
+
+img {
+	border-radius: 50%;
+}
+
+#player {
+	align-items: center;
+}
